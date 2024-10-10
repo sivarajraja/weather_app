@@ -11,7 +11,7 @@ first look
  
  ![weather_app](https://github.com/user-attachments/assets/65c6e6ee-65cb-45f7-9719-5002031cc782)
 
-2. Output when we enter the wrong (or( invalid CITY name
+2. Output when we enter the wrong (or) invalid CITY name
 
 
 
