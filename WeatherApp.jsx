@@ -120,7 +120,7 @@ export const WeatherApp = ()=>{
 
             const weatherIconCode = data.weather[0].code;
             setIcon(weatherIconMap[weatherIconCode] || drizzleIcon);
-            cityNotFount(false);
+            setCityNotFound(false);
 
         }catch(err){
             console.error("An error occurred:",err.message);
